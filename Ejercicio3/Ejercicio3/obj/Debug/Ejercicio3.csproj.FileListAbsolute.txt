@@ -1,0 +1,10 @@
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP9-FLORES LUNA-PROYECTO\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
